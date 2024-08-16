@@ -5,7 +5,7 @@ Previously focused on UI/UX and web development, bringing a strong understanding
 
 - Programming Languages: Python,  R, SQL, Javascript 
 - Data Tools: Pandas, Numpy, Tableau
-- Cloud Platforms: Google Cloud Provider & Microsoft Azure
+- Cloud Platforms: Google Cloud Platform & Microsoft Azure
 - Data Cleaning, Data Visualizations (Matplotlib, Seaborn), Statistics 
 
 ✨ Currently interested in:
