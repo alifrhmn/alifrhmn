@@ -1,23 +1,23 @@
 ## Hi there! 👋 I'm Alif
 
-**About Me**
+## About Me
 
 A data-driven professional with a strong foundation in UI/UX and web development. I combine technical expertise with design thinking to transform complex data into actionable insights and compelling visualizations. My background in user experience helps me create data solutions that are both powerful and accessible.
 
-**Current Focus**
+## Current Focus
 
 * **Data Analysis & Business Intelligence** 📊
 * **Data Engineering & Pipeline Development** ⚙️
 * **Machine Learning & Predictive Analytics** 🤖
 
-**Technical Skills**
+## Technical Skills
 
 **Programming & Query Languages:**
 
-* **Python** (Advanced) 🐍 
-* **R** (Intermediate) 📈 
-* **SQL** (Advanced) 🗃️
-* **JavaScript** (Intermediate) 🌐 
+* **Python** 🐍 
+* **R** 📈 
+* **SQL**  🗃️
+* **JavaScript** 🌐 
 
 **Data Science & Analytics:**
 
